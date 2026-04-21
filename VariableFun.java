@@ -6,7 +6,6 @@ public class VariableFun {
 
         System.out.println(name + " is " + age);
         System.out.println(name + " is " + age + " and he lives in " + hometown);
-        // juuji
         
     }
 }
